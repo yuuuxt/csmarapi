@@ -6,7 +6,7 @@ csmarapi服务接口
 '''
 import json
 import urllib3
-from csmarapi.UrlUtil import UrlUtil
+from .UrlUtil import UrlUtil
 import logging
 import time
 import zipfile
